@@ -1,2 +1,0 @@
-# eSignorCitiAPI
-eSignorAPI Project
